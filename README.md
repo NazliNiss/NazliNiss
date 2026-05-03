@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NazliNiss
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning C,C++ 
-- 💞️ I’m a software engineering student.
+- 👀 I’m interested in developing and cyber security.
+- 💞️ I’m a software engineer.
 
 
 <!---
