@@ -1,61 +1,62 @@
-# 👋 Merhaba, Ben Nazlı! (`NazliNiss`)
+# 👋 Merhaba, Ben Nazlı Nisa Öz!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Siber+G%C3%BCvenlik+Ara%C5%9Ft%C4%B1r%C4%B1c%C4%B1s%C4%B1;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Python+%26+C%2F%2B%2B+Merakl%C4%B1s%C4%B1;Otomasyon+Geli%C5%9Ftirici" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Software+Engineer;Cyber+Security+Analyst;Python+%26+C%2F%2B%2B+Developer;Security+Automation+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🛡️ Hakkımda
 
-Yazılım geliştirme ve siber güvenlik dünyasına ilgi duyan, otomasyon sistemleri ve sistem programlama üzerine çalışmalar yapan bir geliştiriciyim. Kod yazarken güvenliği ön planda tutmayı ve tekrarlayan işleri otomatize etmeyi seviyorum.
+Yazılım mühendisliği ilkelerini ofansif güvenlik ve güvenlik otomasyonu pratikleriyle birleştirmeye odaklanmış bir **Yazılım Mühendisi** ve **Siber Güvenlik Analisti**yim. Sistem seviyesinde güvenli yazılım geliştirme, güvenlik süreçlerinin otomatize edilmesi, zafiyet analizi ve sistem sıkılaştırma (hardening) konularında çalışmalar yürütmekteyim.
 
-- 💻 Şu anda **C/C++** ile sistem seviyesinde yazılım geliştirme ve **Python** ile otomasyon araçları üzerine odaklanıyorum.
-- 🔒 **Siber Güvenlik** alanında kendimi geliştirmeye, CTF çözmeye ve zafiyet analizleri yapmaya devam ediyorum.
-- ⚙️ **Linux** ortamlarında çalışmayı ve betik dilleriyle (Bash, Python) süreçleri otomatize etmeyi seviyorum.
+- 🎓 **Yazılım Mühendisliği** mezunuyum (Lisans eğitimimi 3.5 yılda erken tamamladım).
+- ⚙️ **Sistem Programlama & Otomasyon:** Sistem seviyesinde araçlar geliştirmek için **C/C++**, otomasyon ve backend servisleri için **Python** kullanıyorum.
+- 🔒 **Güvenlik Analitiği & Sıkılaştırma:** Uyumluluk standartlarına (ISO 27001, CIS Benchmarks) göre güvenlik kontrolleri geliştirme, YARA kural motorları tasarlama ve log/telemetri analizleri yapma üzerine deneyim sahibiyim.
 
 ---
 
 ### 🛠️ Teknolojiler & Yetenekler
 
 <p align="left">
-  <!-- Programlama Dilleri -->
+  <!-- Diller -->
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
 <p align="left">
-  <!-- İşletim Sistemleri & Araçlar -->
+  <!-- Teknolojiler -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
+
+#### **Güvenlik ve Analiz Araçları / Metodolojileri:**
+- **Sızma Testi & Analiz:** Burp Suite, Nikto, Shodan, Nessus, Nuclei
+- **Sıkılaştırma & Otomasyon:** Wazuh SCA (Security Configuration Assessment), YARA Kural Tasarımı
+- **Ağ Simülasyonu:** EVE-NG (Cisco, Aruba), SNMP/MIB/OID Telemetrisi
+- **Yapay Zeka & LLM:** LangChain ile Güvenlik Çözümleri Otomasyonu
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📂 Öne Çıkan Çalışmalar & Deneyim Alanları
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NazliNiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="NazliNiss GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazliNiss&layout=compact&theme=tokyonight&langs_count=6" alt="NazliNiss Top Languages" />
-</p>
+* 🔍 **ABISS (AI-Based Automated Security Scoring):**
+  * Uç nokta telemetrisini canlı olarak analiz eden ve bulguları kategorize eden Python ve YARA tabanlı özelleştirilmiş bir kural motoru.
+  * Antivirüs, yerel güvenlik duvarı, OS yama seviyesi ve konfigürasyon sağlığını ölçen ağırlıklı bir güvenlik puanlama sistemi.
+  * FastAPI, Docker ve PostgreSQL tabanlı yüksek performanslı arka uç mimarisi.
+  * LangChain entegrasyonu ile zafiyet bulgularına yönelik otomatik çözüm önerileri (remediation runbooks) oluşturulması.
 
----
+* 🛠️ **Güvenlik Otomasyonu Hattı (Security Automation Pipeline):**
+  * Wazuh SCA kurallarını işleyen, sistemlerdeki güvenlik açıklarını tespit eden ve otomatik sıkılaştırma (hardening) sağlayan PowerShell ve Bash denetim betikleri üreten Python hattı.
+  * Selenium ve REST API'ler kullanarak aktif güvenlik ajan durumunu, sistem envanterini ve dizin bilgilerini birleştiren otomatik zafiyet raporlama aracı.
 
-### 💬 Benimle İletişime Geçin
-
-Eğer projelerim hakkında konuşmak, siber güvenlik üzerine tartışmak veya iş birliği yapmak isterseniz bana aşağıdaki kanallardan ulaşabilirsiniz:
-
-<p align="left">
-  <a href="https://github.com/NazliNiss" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- İsteğe bağlı olarak LinkedIn veya diğer sosyal medya linklerinizi buraya ekleyebilirsiniz: -->
-  <!-- 
-  <a href="https://linkedin.com/in/KULLANICI_ADINIZ" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  -->
-</p>
+* 🎯 **Ofansif Güvenlik Simülasyonları:**
+  * Kali Linux ve Windows laboratuvar ortamlarında sızma simülasyonları, zararlı yazılım davranış analizleri, kaçınma (evasion) teknikleri ve post-exploitation çalışmaları.
+  * TCP soket programlama kullanarak C dilinde geliştirilmiş hafif, komut yürütme odaklı ters bağlantı (reverse shell) istemci-sunucu uygulaması.
+  * GoPhish altyapısı ile kontrollü e-posta oltalama (phishing) simülasyonları ve farkındalık analiz raporlamaları.
