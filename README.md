@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben Nazlı Nisa Öz!
+# 👋 Merhaba, Ben Nazlı!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Software+Engineer;Cyber+Security+Analyst;Python+%26+C%2F%2B%2B+Developer;Security+Automation+Developer" alt="Typing SVG" />
