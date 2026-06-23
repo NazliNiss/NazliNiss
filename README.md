@@ -13,6 +13,7 @@ I am a software engineer and developer interested in cybersecurity and security 
 - 💻 Developing tools and automation scripts using **C/C++** and **Python**.
 - 🔒 Focusing on security configuration, network telemetry, and system hardening.
 - ⚙️ Passionate about scripting in Linux environments to automate workflows.
+- I have lots of other projects that I can not unfortunately share due to privacy reasons... (they are better and more technical)
 
 ---
 
